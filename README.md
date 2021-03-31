@@ -8,9 +8,9 @@ Instruction:
 4. Done!
 
 What that cheat includes:
-Glow ESP--
-Bunnyhop (coming soon)--
-TriggerBot (coming soon)
+1. Glow ESP
+2. Bunnyhop (coming soon)
+3. TriggerBot (coming soon)
 
 This cheat updates itself automatically, so that means it's always up to date.
 Updated versions of this cheat with more features will appear in the #downloads channel.
