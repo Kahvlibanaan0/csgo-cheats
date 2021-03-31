@@ -17,3 +17,5 @@ Updated versions of this cheat with more features will appear in the #downloads 
 
 If you have a problem, you can contact me in my Discord server
 https://discord.gg/dbnt7C5X
+
+PS! If you play too obviously with cheats, then you might get overwatched. So be carefull!
