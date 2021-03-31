@@ -7,5 +7,7 @@ Glow ESP--
 Bunnyhop (coming soon)--
 TriggerBot (coming soon)
 
+Updated versions of this cheat with more features will appear in the #downloads chat
+
 If you have a problem, you can contact me in my Discord server
 https://discord.gg/dbnt7C5X
